@@ -1,0 +1,11 @@
+web-scraper-cybersec/
+├── install.sh
+├── scraper/
+│   ├── basic_scraper.py
+│   ├── email_scraper.py
+│   ├── proxy_scraper.py
+│   └── js_scraper_selenium.py
+├── output/
+│   └── results.csv
+├── README.md
+└── requirements.txt
